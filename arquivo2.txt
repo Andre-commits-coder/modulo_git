@@ -1,1 +1,4 @@
+Colocando acentuação no arquivo2.txt
+
+
 "aqui é o Andre programador Junior, teste."
